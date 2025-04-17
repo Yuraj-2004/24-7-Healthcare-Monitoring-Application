@@ -11,7 +11,7 @@ By collaborating with healthcare professionals and leveraging patient data, the 
 Through features like lab test booking, medicine purchases, and doctor appointments, the application seeks to address real-life healthcare challenges. Continuous evaluation and user feedback will ensure system effectiveness, drive improvements, and set new standards in digital health management. Ultimately, the goal is to offer patients a seamless and integrated healthcare experience while promoting better health outcomes.
 
 
-Key Features: 
+**Key Features:** 
  
 
 1.	Real-Time Inventory Management
